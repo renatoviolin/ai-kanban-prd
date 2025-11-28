@@ -4,9 +4,7 @@ AI-Kanban-PRD is an intelligent Kanban board designed to **transform user featur
 
 **Main Goal**: Bridge the gap between idea and implementation by generating detailed, structured specifications that can be directly fed into tools like **Claude Code**, **Google Antigravity**, or **Cursor** to accelerate development.
 
-<div align="center">
-  <video src="assets/demo.mp4" width="100%" controls autoplay loop muted></video>
-</div>
+![AI-Kanban Demo](assets/demo.mp4)
 
 ## Roadmap & Next Steps
 
