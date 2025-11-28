@@ -1,6 +1,6 @@
-# AI-Kanban
+# SpecFlow AI
 
-AI-powered Kanban board with intelligent task management and automated PRD (Product Requirements Document) generation.
+SpecFlow AI is an intelligent Kanban board that transforms task cards into comprehensive Product Requirements Documents (PRDs) using advanced AI.
 
 ## Roadmap & Next Steps
 
