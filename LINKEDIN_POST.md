@@ -1,10 +1,10 @@
 # LinkedIn Post Draft
 
-**Headline:** 🚀 Bridging Project Management & AI: Introducing AI-Kanban
+**Headline:** 🚀 From Idea to Spec in Seconds: Introducing SpecFlow AI
 
-Excited to open-source my latest project, **AI-Kanban** – a next-generation project management tool that leverages Large Language Models to automate technical documentation.
+Excited to open-source my latest project, **SpecFlow AI** – a next-generation project management tool that leverages Large Language Models to automate technical documentation.
 
-As an AI Specialist, I've seen how much time developers spend translating ideas into requirements. I built AI-Kanban to solve this by integrating **OpenAI (GPT-4o)**, **Anthropic (Claude 3.5)**, and **Google Gemini** directly into the workflow.
+As an AI Specialist, I've seen how much time developers spend translating ideas into requirements. I built SpecFlow AI to solve this by integrating **OpenAI (GPT-4o)**, **Anthropic (Claude 3.5)**, and **Google Gemini** directly into the workflow.
 
 **✨ Key Features:**
 *   ✍️ **AI Card Assistant**: Intelligent writing aid to help you articulate task descriptions clearly.
@@ -12,6 +12,8 @@ As an AI Specialist, I've seen how much time developers spend translating ideas 
 *   💡 **Smart Brainstorming**: AI analyzes your project data to suggest new cards and features.
 *   🚀 **AI-Ready Output**: Generated PRDs are optimized for direct use in AI coding tools like **Claude Code** and **Google Antigravity**.
 *   🧠 **Multi-Model Intelligence**: Smart fallback system that auto-selects the best available LLM (OpenAI, Anthropic, Gemini).
+
+⚠️ **Project Status**: This is currently a **Proof of Concept (PoC)** focused on perfecting the AI workflows. I'm actively working on a roadmap to add collaboration, task metadata, and analytics.
 
 I'm releasing this as **Open Source (MIT)** to contribute to the community and invite fellow developers to collaborate. Whether you're interested in RAG, agentic workflows, or modern web dev, I'd love your feedback and PRs!
 
