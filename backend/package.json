@@ -1,7 +1,7 @@
 {
-    "name": "specflow-ai-backend",
+    "name": "ai-kanban-prd-backend",
     "version": "1.0.0",
-    "description": "Backend for SpecFlow AI project",
+    "description": "Backend for AI-Kanban-PRD project",
     "main": "dist/index.js",
     "scripts": {
         "dev": "tsx watch src/index.ts",

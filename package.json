@@ -1,7 +1,7 @@
 {
-    "name": "specflow-ai",
+    "name": "ai-kanban-prd",
     "version": "1.0.0",
-    "description": "SpecFlow AI - Intelligent Kanban board with automated PRD generation",
+    "description": "AI-Kanban-PRD - Transform Kanban cards into AI-ready Product Requirements Documents",
     "scripts": {
         "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
         "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
