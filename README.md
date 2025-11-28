@@ -2,11 +2,26 @@
 
 AI-powered Kanban board with intelligent task management and automated PRD (Product Requirements Document) generation.
 
+## Roadmap & Next Steps
+
+⚠️ **Project Status**: This project is currently a **Proof of Concept (PoC)** focused on the core AI workflows: helping users write better task descriptions and automatically generating technical PRDs. It is **not** yet a full-featured Kanban board replacement (like Jira or Trello).
+
+We are actively working on expanding the core Kanban functionality. Upcoming features include:
+
+- 👥 **Collaboration**: Ability to add multiple users to projects and assign cards
+- 📅 **Task Metadata**: Due dates, labels, custom fields, and other relevant metrics
+- 📊 **Enhanced Card Details**: Richer data structures for cards to support complex workflows
+- 📈 **Project Analytics**: Burndown charts and velocity tracking
+
+
 ## Features
 
 - 🎯 **Smart Kanban Board**: Organize tasks with drag-and-drop functionality
-- 🤖 **AI-Powered PRD Generation**: Automatically generate technical PRDs using OpenAI, Anthropic, or Google Gemini
-- 📝 **Customizable Templates**: Create and manage your own PRD templates
+- ✍️ **AI Card Assistant**: Intelligent writing aid to help you articulate task descriptions clearly
+- 📝 **Automated PRDs**: Instantly generate comprehensive Product Requirements Documents from simple card descriptions
+- 💡 **Smart Brainstorming**: AI analyzes your project data to suggest new cards and features
+- ⚡ **AI-Ready Output**: Generated PRDs are optimized for direct use in AI coding tools like **Claude Code** and **Google Antigravity**
+- 🤖 **Multi-Model Support**: Use OpenAI, Anthropic, or Google Gemini with smart fallback
 - 🔐 **Secure Authentication**: Built on Supabase for robust user management
 - 🎨 **Modern UI**: Built with React, TypeScript, and TailwindCSS
 
@@ -31,8 +46,8 @@ AI-powered Kanban board with intelligent task management and automated PRD (Prod
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kanban-ia.git
-cd kanban-ia
+git clone https://github.com/renatoviolin/ai-kanban-prd.git
+cd ai-kanban-prd
 ```
 
 ### 2. Install Dependencies
@@ -242,6 +257,7 @@ From the frontend directory:
 - Both servers support hot-reload during development
 - TypeScript is configured with strict mode for type safety
 
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -267,5 +283,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions:
-- Open an issue on [GitHub Issues](https://github.com/YOUR_USERNAME/kanban-ia/issues)
+- Open an issue on [GitHub Issues](https://github.com/renatoviolin/ai-kanban-prd/issues)
 - Check the [Troubleshooting](#troubleshooting) section above
